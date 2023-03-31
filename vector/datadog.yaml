@@ -1,0 +1,9 @@
+inventories_configuration_enabled: true
+
+log_level: 'info'
+
+#logs_enabled: true
+
+vector:
+  logs.enabled: true
+  logs.url: http://10.23.141.107:8080
